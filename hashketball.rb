@@ -24,3 +24,5 @@ def game_hash
     }
   }
 end
+
+pp game_hash
